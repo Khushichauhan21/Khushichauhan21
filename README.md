@@ -1,3 +1,4 @@
+![Officially](https://user-images.githubusercontent.com/77223944/148965605-5166a2dc-f750-4b9f-800a-d3e91ae5374f.png)
 <h1 align="center">Hi 👋, I'm Khushi Chauhan</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
