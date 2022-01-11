@@ -4,7 +4,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Khushichauhan21](https://github.com/Khushichauhan21)
 
 - 📫 How to reach me **khushichauhan875@gmail.com**
+- <p align="left">
+ <img src="https://komarev.com/ghpvc/?username=khushichauhan21&label=Profile+views&color=129e00&style=plastic" alt="Khushichauhan21" >
+ </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
